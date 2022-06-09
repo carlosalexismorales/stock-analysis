@@ -9,10 +9,13 @@
 
 
 The second deliverable was to create arrays for ticker, tickerVolumes, tickerStartingPrices, and tickerEnding Prices. The array for tickerVolume had to be set to a 'Long' data type, while the arrays for tickerStartingPrices and tickerEndingPrices had to be set to a 'Single' data type. 
+
 <img width="609" alt="Screen Shot 2022-06-07 at 9 23 12 PM" src="https://user-images.githubusercontent.com/102444078/172764501-8e587dd3-6377-4ace-ae7c-14fba936cb60.png">
 
 
-The third deliverable was to create a loop that will be used to initialize tickerVolume to 0 and if the the next row's ticker didn't match, to increse it. <img width="509" alt="Screen Shot 2022-06-07 at 9 23 30 PM" src="https://user-images.githubusercontent.com/102444078/172764619-484ee5c6-1838-4bdc-9ae3-74c5ff0bfa7b.png">
+The third deliverable was to create a loop that will be used to initialize tickerVolume to 0 and if the the next row's ticker didn't match, to increse it. 
+
+<img width="509" alt="Screen Shot 2022-06-07 at 9 23 30 PM" src="https://user-images.githubusercontent.com/102444078/172764619-484ee5c6-1838-4bdc-9ae3-74c5ff0bfa7b.png">
  
 
 The fourth deliverable was to create another loop that will loop through the stocker index for the three arrays that were created earlier. Inside the loop, there was an if-then statement to check if the current row is the first row with the selected tickerIndex and if it is, to assign the current closing price to the tickerStartingPrices and tickerEndingPrices variable. 
