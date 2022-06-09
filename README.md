@@ -23,12 +23,13 @@ The fourth deliverable was to create another loop that will loop through the sto
 The fifth deliverable had to do with formatting the data so that it can be easier to read - positive returns were colored green and negative returns were colored red. This helped determine which stocks performed well and which ones didn't. 
 
 If we take a look at the 2017 vs 2018 stock data, we can see that there were major differences between how the stocks performed. For example, in 2017, almost all stocks except for 'TERP', had a positive performance, but in 2018, almost all stocks except for 'ENPH' and 'RUN', performed negatively. 
+
 <img width="388" alt="Screen Shot 2022-06-07 at 9 21 42 PM" src="https://user-images.githubusercontent.com/102444078/172764893-d88b6b64-d41f-48e5-9260-3afa272a1241.png">
 
 <img width="397" alt="Screen Shot 2022-06-07 at 9 22 56 PM" src="https://user-images.githubusercontent.com/102444078/172764927-bddd002c-550f-43b2-a768-e78c0c77edd1.png">
 
 
-This goes to show that in just a year, the majority of the stocks had drastically changed, meaning they are volatile and highly risky. However, because we can easily visualize which stocks stayed consisted and had positive returns, it becomes easier for us to determine which stock was the most consistent and least risky. Using the updated and refactoed script also tells us how fast the data was read and analyzed. With the refactored code, it is faster than the original, allowing us to gain insight as to how long we can expect results.
+This goes to show that in just a year, the majority of the stocks had drastically changed, meaning they are volatile and highly risky. However, because we can easily visualize which stocks stayed consisted and had positive returns, it becomes easier for us to determine which stock was the most consistent and least risky. Using the updated and refactored script also tells us how fast the data was read and analyzed. With the refactored code, it is faster than the original, allowing us to gain insight as to how long we can expect results.
 <img width="544" alt="Screen Shot 2022-06-07 at 9 22 42 PM" src="https://user-images.githubusercontent.com/102444078/172764828-4d2ad4b4-f4c2-4d3d-8e15-3956491f63f0.png">
 <img width="559" alt="Screen Shot 2022-06-07 at 9 21 57 PM" src="https://user-images.githubusercontent.com/102444078/172764842-b0859e64-567c-492f-8b23-b73434cb1649.png">
 
